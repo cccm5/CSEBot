@@ -48,6 +48,7 @@ Temporary Items
 
 # Idea files
 .idea/
+.iml
 
 logs/
 target/
